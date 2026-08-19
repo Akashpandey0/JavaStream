@@ -1,0 +1,148 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "FindTheLargestAlmostMissingInteger",
+            "request": "launch",
+            "mainClass": "FindTheLargestAlmostMissingInteger",
+            "projectName": "Stream_982f27bd"
+        },
+        {
+            "type": "java",
+            "name": "MostContainerWater",
+            "request": "launch",
+            "mainClass": "MostContainerWater",
+            "projectName": "Stream_982f27bd"
+        },
+        {
+            "type": "java",
+            "name": "ValidateIPv4",
+            "request": "launch",
+            "mainClass": "ValidateIPv4",
+            "projectName": "Stream_982f27bd"
+        },
+        {
+            "type": "java",
+            "name": "SingleElement",
+            "request": "launch",
+            "mainClass": "SingleElement",
+            "projectName": "Stream_982f27bd"
+        },
+        {
+            "type": "java",
+            "name": "RemoveAllCommon",
+            "request": "launch",
+            "mainClass": "RemoveAllCommon",
+            "projectName": "Stream_982f27bd"
+        },
+        {
+            "type": "java",
+            "name": "RemoveAdjacentDuplicates",
+            "request": "launch",
+            "mainClass": "RemoveAdjacentDuplicates",
+            "projectName": "Stream_982f27bd"
+        },
+        {
+            "type": "java",
+            "name": "NonRepeating",
+            "request": "launch",
+            "mainClass": "NonRepeating",
+            "projectName": "Stream_982f27bd"
+        },
+        {
+            "type": "java",
+            "name": "FindDuplicatesUsingStream",
+            "request": "launch",
+            "mainClass": "FindDuplicatesUsingStream",
+            "projectName": "Stream_982f27bd"
+        },
+        {
+            "type": "java",
+            "name": "FindLargestInArray",
+            "request": "launch",
+            "mainClass": "FindLargestInArray",
+            "projectName": "Stream_982f27bd"
+        },
+        {
+            "type": "java",
+            "name": "VowelsAndConsonantsString",
+            "request": "launch",
+            "mainClass": "VowelsAndConsonantsString",
+            "projectName": "Stream_982f27bd"
+        },
+        {
+            "type": "java",
+            "name": "VowelsString",
+            "request": "launch",
+            "mainClass": "VowelsString",
+            "projectName": "Stream_982f27bd"
+        },
+        {
+            "type": "java",
+            "name": "Frequency1",
+            "request": "launch",
+            "mainClass": "Frequency1",
+            "projectName": "Stream_982f27bd"
+        },
+        {
+            "type": "java",
+            "name": "TopHighestScore",
+            "request": "launch",
+            "mainClass": "TopHighestScore",
+            "projectName": "Stream_982f27bd"
+        },
+        {
+            "type": "java",
+            "name": "SecondHighestSalary",
+            "request": "launch",
+            "mainClass": "SecondHighestSalary",
+            "projectName": "Stream_982f27bd"
+        },
+        {
+            "type": "java",
+            "name": "GroupAnagrams",
+            "request": "launch",
+            "mainClass": "GroupAnagrams",
+            "projectName": "Stream_982f27bd"
+        },
+        {
+            "type": "java",
+            "name": "Pattern6",
+            "request": "launch",
+            "mainClass": "Pattern6",
+            "projectName": "Stream_982f27bd"
+        },
+        {
+            "type": "java",
+            "name": "ReverseCascadeEncoder",
+            "request": "launch",
+            "mainClass": "ReverseCascadeEncoder",
+            "projectName": "Stream_982f27bd"
+        },
+        {
+            "type": "jdk",
+            "request": "launch",
+            "name": "Launch Java App"
+        },
+        {
+            "type": "jdk",
+            "request": "launch",
+            "name": "Launch Java App"
+        },
+        {
+            "type": "jdk",
+            "request": "launch",
+            "name": "Launch Java App"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
